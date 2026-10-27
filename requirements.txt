@@ -1,0 +1,4 @@
+python-telegram-bot>=21.6,<22
+aiohttp>=3.9,<4
+beautifulsoup4>=4.12
+Pillow>=10.3
